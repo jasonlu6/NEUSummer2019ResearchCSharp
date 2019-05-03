@@ -1,6 +1,6 @@
 ﻿/* 
  * Tutorial for Variables and Functions for C# Unity coding. 
- * Bsaic arithmetic operations in #C Unity coding. 
+ * Basic arithmetic operations in C# Unity coding. 
  * Author: Jason Lu (lu.jaso@husky.neu.edu)
  * Date: 5.02.2019 - 5.05.2019
  * Training Module #3 For NEU Summer Research 2019 
